@@ -11,9 +11,17 @@ First put all dataset ZIP files in to directory "compressed". The files will be 
 ### 2. Generate annotations
 ```
 python extract_annotations.py
+
+subject1_annotations.json
+subject5_annotations.json
+subject6_annotations.json
+subject7_annotations.json
+subject8_annotations.json
+subject9_annotations.json
+subject10_annotations.json
+subject11_annotations.json
 ```
 The annotations will be generated for each subject as json file in "extracted" folder.
-
 
 ## 3D Pose Visualization
 To visualize a pose in 3D

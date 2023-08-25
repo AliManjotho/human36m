@@ -10,5 +10,5 @@ python visualize_3d.py
 ![vis3d_1](resources/vis3d_2.png)
 
 ## 2D Pose Visualization
-<img src="resources/vis2d_1.png" width="300"> <img src="resources/vis2d_2.png" width="300">
+<img src="resources/vis2d_1.png" width="300"> <img src="resources/vis2d_2.png" width="350">
 

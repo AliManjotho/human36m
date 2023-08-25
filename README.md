@@ -3,13 +3,13 @@ A library for processing and generating readable annotations for Human3.6M datas
 
 ## Steps
 ### 1. Extract all dataset files
-compressed
-  annotations.zip
-  s_01_act_02_subact_01_ca_01.zip
-  s_01_act_02_subact_01_ca_02.zip
-  s_01_act_02_subact_01_ca_03.zip
-  s_01_act_02_subact_01_ca_04.zip
-  ...
+> compressed
+>   annotations.zip
+>   s_01_act_02_subact_01_ca_01.zip
+>   s_01_act_02_subact_01_ca_02.zip
+>   s_01_act_02_subact_01_ca_03.zip
+>   s_01_act_02_subact_01_ca_04.zip
+>   ...
 ```
 python extract_all.py
 ```

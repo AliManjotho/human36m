@@ -1,3 +1,10 @@
 # Human3.6M - Dataset processing and visualization
 A library for processing and generating readable annotations for Human3.6M dataset.
-![vis3d_1](resources/vis3d_1.jpg)
+
+## 3D Pose Visualization
+![vis3d_1](resources/vis3d_1.png)
+![vis3d_1](resources/vis3d_2.png)
+
+## 2D Pose Visualization
+![vis2d_1](resources/vis2d_1.png)
+![vis2d_1](resources/vis2d_2.png)

@@ -3,11 +3,11 @@ import cv2
 from utils import skeleton
 
 
-SUBJECT = 1
-FRAME_INDEX = 3501
+SUBJECT = 7
+FRAME_INDEX = 4501
 JOINT_COLOR = (0,255,255)
 JOINT_SIZE = 5
-BONE_COLOR = (255,0,0)
+BONE_COLOR = (0,255,0)
 BONE_SIZE = 3
 
 sub_data_path = './extracted/subject' + str(SUBJECT) + '_annotations.json'

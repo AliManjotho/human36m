@@ -4,8 +4,8 @@ import matplotlib.image as mpimg
 from utils import skeleton
 
 
-SUBJECT = 8
-FRAME_INDEX = 190600
+SUBJECT = 6
+FRAME_INDEX = 120600
 
 
 sub_data_path = './extracted/subject' + str(SUBJECT) + '_annotations.json'

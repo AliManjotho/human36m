@@ -43,7 +43,7 @@ To visualize a pose in 3D
 python visualize_3d.py
 ```
 ![vis3d_1](resources/vis.gif)
-![vis3d_1](resources/vis3d_2.png)
+![vis3d_1](resources/vis3d_1.png)
 
 ## 2D Pose Visualization
 To visualize a pose in 2D

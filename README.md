@@ -3,8 +3,9 @@ A library for processing and generating readable annotations for Human3.6M datas
 
 ## 3D Pose Visualization
 To visualize a pose in 3D
-```python visualize_3d.py
-```
+'''
+python visualize_3d.py
+'''
 ![vis3d_1](resources/vis3d_1.png)
 ![vis3d_1](resources/vis3d_2.png)
 
